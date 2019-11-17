@@ -1,3 +1,3 @@
-FROM openvpn-local:latest
+FROM openvpn-cargsl:latest
 
 RUN apk add --no-cache curl
